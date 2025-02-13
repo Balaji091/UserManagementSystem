@@ -39,8 +39,8 @@ Follow these steps to set up and run the project locally.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/user-management-system.git
-   cd user-management-system
+   git clone https://github.com/Balaji091/UserManagementSystem.git
+   cd UserManagementSystem
    ```
 
 2. **Install Dependencies**:
@@ -87,7 +87,7 @@ backend/
 
 ## **Postman Collection**
 
-The APIs are documented in a **Postman Collection**. You can import the collection to test the APIs. The collection includes:
+The APIs are documented in a **Postman Collection**. You can import the collection to test the APIs. The collection includes:</br>
 <a href="https://galactic-flare-551414.postman.co/workspace/New-Team-Workspace~f0942aaf-c88c-4753-9904-8fc4e772edfa/collection/40381633-dd0c76c0-ab98-4d28-a208-8754f10b0676?action=share&creator=40381633">Postman Doucmenation Link </a>
 
 - **Auth**:
